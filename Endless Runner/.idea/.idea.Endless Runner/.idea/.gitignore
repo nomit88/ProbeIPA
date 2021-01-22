@@ -1,0 +1,13 @@
+﻿# Default ignored files
+/shelf/
+/workspace.xml
+# Rider ignored files
+/contentModel.xml
+/projectSettingsUpdater.xml
+/.idea.Endless Runner.iml
+/modules.xml
+# Datasource local storage ignored files
+/../../../../../../../../:\Schule\4.Lehrjahr\ProbeIPA\Endless Runner\.idea\.idea.Endless Runner\.idea/dataSources/
+/dataSources.local.xml
+# Editor-based HTTP Client requests
+/httpRequests/

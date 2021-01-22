@@ -1,0 +1,59 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - deadly
+  - backgroundObj
+  - Ground
+  - fly_deadly
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: Background
+    uniqueID: 3443281205
+    locked: 0
+  - name: Mid
+    uniqueID: 3959893803
+    locked: 0
+  - name: Foreground
+    uniqueID: 1320425331
+    locked: 0
+  - name: UI(UltraForground)
+    uniqueID: 4030805575
+    locked: 0
